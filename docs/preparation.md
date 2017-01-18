@@ -44,7 +44,7 @@ nrm常用命令:
 
 ```
 $ nrm ls #查看当前 nrm 内置的几个 npm 源的地址
-$ nrm user taobao 切换npm源
+$ nrm user taobao #切换npm源
 ```
 
 ## 安装 Postman
